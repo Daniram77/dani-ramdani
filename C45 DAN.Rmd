@@ -1,0 +1,21 @@
+---
+title: "C45"
+author: "Dani Ramdani"
+date: "12/29/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Algoritma C45
+Merupakan salah satu algoritma yang digunakan untuk 
+melakukan klasifikasi dan segmentasi dan bersifat prediktif
+
+# Tahapan Algoritma C45
+
+# Eksperimen Algoritma C45
+
+# Referensi
+
